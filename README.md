@@ -1,3 +1,4 @@
+[intro.txt](https://github.com/giacomo3000/project-kyc-verification/files/9448453/intro.txt)
 [NEW IDO RULES ON KINGDOMSTARTER - COMMIT FUND - Updated August 21st, 2022.pdf](https://github.com/giacomo3000/project-kyc-verification/files/9437798/NEW.IDO.RULES.ON.KINGDOMSTARTER.-.COMMIT.FUND.-.Updated.August.21st.2022.pdf)
 # KYC Verification By InterFi Network
 InterFi KYC verification aims to bring trust, and transparency in blockchain projects. In this repo, we'll upload certificates of the KYC verified projects. To request KYC verification, contact https://t.me/interfiaudits or hello@interfi.network
